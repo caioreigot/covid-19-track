@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/covid-19-track/static/js/main.9661fad6.js",
+    "static/media/covid.jpg": "/covid-19-track/static/media/covid.53cfdf156cd1d18cd291.jpg",
+    "index.html": "/covid-19-track/index.html",
+    "main.9661fad6.js.map": "/covid-19-track/static/js/main.9661fad6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9661fad6.js"
+  ]
+}
